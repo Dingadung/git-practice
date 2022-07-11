@@ -16,4 +16,4 @@ members:
 
 fetch: training
 
-signed: yes!
+signed: no!
